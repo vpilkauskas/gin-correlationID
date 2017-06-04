@@ -3,8 +3,8 @@ package ginCorrelationID
 import (
 	"strings"
 
+	"github.com/gin-gonic/gin"
 	uuid "github.com/nu7hatch/gouuid"
-	"gopkg.in/gin-gonic/gin.v1"
 )
 
 //CorrelationIDMiddleware adds correlationID if it's not specified in HTTP request
