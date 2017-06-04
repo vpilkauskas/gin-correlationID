@@ -4,7 +4,7 @@
 CorrelationID middleware for Golang [Gin Web framework](https://github.com/gin-gonic/gin) 
 
 # Use case
-Gin-CorraltaionID middleware is used to check if there is an corralation id added into request header. If there header is not found middleware adds it to request.
+Gin-CorraltaionID middleware is used to check if there is an corralation id added into http request header. If that header is not found middleware adds it to http request.
 
 Correlation ID enriches logs and reduces your headache when it comes to tracing up an actions produced by application.
 
