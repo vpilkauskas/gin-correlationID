@@ -1,4 +1,6 @@
 # Gin-CorrelationID
+[![Go Report Card](https://goreportcard.com/badge/github.com/grayMou5e/gin-correlationID)](https://goreportcard.com/report/github.com/grayMou5e/gin-correlationID)
+
 CorrelationID middleware for Golang [Gin Web framework](https://github.com/gin-gonic/gin) 
 
 # Use case
